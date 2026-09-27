@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KSRvikranth/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## String
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KSRvikranth/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KSRvikranth/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KSRvikranth/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
